@@ -70,4 +70,4 @@
 | 작성자 수정  | PUT    | /api/author/{id} |                                                                                                              | {<br>&nbsp;"id" : "Long"<br>&nbsp;"author_name" : "String"<br>&nbsp;"email" : "String"<br>&nbsp;"joinTime" : "LocalDateTime"<br>&nbsp;"editTIme" : "LocalDateTime"<br>}         | 200 : 정상수정 |
 | 작성자 삭제  | DELETE | /api/author/{id} |                                                                                                              |{<br>&nbsp;"id" : "Long"<br>&nbsp;"author_name" : "String"<br>&nbsp;"email" : "String"<br>&nbsp;"joinTime" : "LocalDateTime"<br>&nbsp;"editTIme" : "LocalDateTime"<br>}| 200 : 정상삭제 |
 
-<img src="erd.png" width="600"/>
+<img src="https://github.com/rlagkrwls258/TaskManage/blob/main/ERD.png?raw=true" width="600"/>
